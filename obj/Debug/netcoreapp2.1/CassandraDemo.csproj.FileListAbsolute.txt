@@ -1,0 +1,11 @@
+C:\Users\Rahul Jyala\Desktop\CassandraDemo\bin\Debug\netcoreapp2.1\CassandraDemo.deps.json
+C:\Users\Rahul Jyala\Desktop\CassandraDemo\bin\Debug\netcoreapp2.1\CassandraDemo.runtimeconfig.json
+C:\Users\Rahul Jyala\Desktop\CassandraDemo\bin\Debug\netcoreapp2.1\CassandraDemo.runtimeconfig.dev.json
+C:\Users\Rahul Jyala\Desktop\CassandraDemo\bin\Debug\netcoreapp2.1\CassandraDemo.dll
+C:\Users\Rahul Jyala\Desktop\CassandraDemo\bin\Debug\netcoreapp2.1\CassandraDemo.pdb
+C:\Users\Rahul Jyala\Desktop\CassandraDemo\obj\Debug\netcoreapp2.1\CassandraDemo.csprojAssemblyReference.cache
+C:\Users\Rahul Jyala\Desktop\CassandraDemo\obj\Debug\netcoreapp2.1\CassandraDemo.csproj.CoreCompileInputs.cache
+C:\Users\Rahul Jyala\Desktop\CassandraDemo\obj\Debug\netcoreapp2.1\CassandraDemo.AssemblyInfoInputs.cache
+C:\Users\Rahul Jyala\Desktop\CassandraDemo\obj\Debug\netcoreapp2.1\CassandraDemo.AssemblyInfo.cs
+C:\Users\Rahul Jyala\Desktop\CassandraDemo\obj\Debug\netcoreapp2.1\CassandraDemo.dll
+C:\Users\Rahul Jyala\Desktop\CassandraDemo\obj\Debug\netcoreapp2.1\CassandraDemo.pdb
